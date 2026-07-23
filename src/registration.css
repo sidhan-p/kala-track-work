@@ -1,0 +1,1 @@
+.rowActions{display:flex;gap:6px;justify-content:flex-end}.rowActions .mini:first-child{border-color:#ff5b22;color:#d84410}.rowActions button:disabled{opacity:.55;cursor:default}@media(max-width:700px){.rowActions{flex-direction:column}table{min-width:720px}.module{overflow-x:auto}}
