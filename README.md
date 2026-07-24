@@ -1,4 +1,8 @@
-# KalaTrack
+# KalaTrack v1.9.1
+
+Festival operations release with printable participant ID cards, per-event QR
+passes, camera-based QR check-in, manual fallback, and duplicate attendance
+protection.
 
 **Celebrate Art. Organize Smart.**
 
